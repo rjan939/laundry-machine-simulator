@@ -1,0 +1,23 @@
+# Vivado generated directories
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+.Xil/
+
+# Vivado log and journal files
+*.jou
+*.log
+*.str
+*.dmp
+
+# Bitstreams and hardware handoff files (optional)
+*.bit
+*.bin
+*.ltx
+*.xsa
+
+# Uncomment the line below ONLY if using the TCL script method
+# vivado_proj/
